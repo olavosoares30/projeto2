@@ -1,9 +1,16 @@
-.corpo-conteudo{
+cabecalho{
     background-color: black;
     color: green;
 }
-
-
+.principal{
+    background-color: yellow;
+    color: white;
+}
+.rodape{
+    background-color: black;
+    color: white;
+    text-align: crenter;
+}
 #comandos{
     width: 400px;
 }
