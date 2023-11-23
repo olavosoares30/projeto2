@@ -1,0 +1,9 @@
+.cabecalho{
+    background-color: black;
+    border: 10px;
+    border-color: snow;
+    border-style: double;
+    color:white;
+    text-decoration: line-through;
+    text-align: center;
+}

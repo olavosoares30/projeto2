@@ -1,5 +1,5 @@
 cabecalho{
-    background-color: rgb(1, 1, 17);
+    background-color: rgb(15, 17, 1);
     color:yellow;
     }
     .principal{
@@ -8,18 +8,9 @@ cabecalho{
     }
     .rodape{
     background-color: black;
-<<<<<<< HEAD
-    color: yellow;
-    text-align: center;
-    }
-    #finlandia{
-    width: 600px;
-    }
-=======
     color: white;
     text-align: crenter;
 }
 #comandos{
     width: 300px;
 }
->>>>>>> ee0c885de57f8175d6ecaaceb46082f31e470e6c
